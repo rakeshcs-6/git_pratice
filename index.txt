@@ -1,1 +1,1 @@
-merge from feature
+conflict
